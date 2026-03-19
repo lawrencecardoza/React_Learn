@@ -44,37 +44,6 @@ src/
 
 ![Job Openings](<Screenshot 2026-03-19 082944.png>)
 
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/job-openings-ui.git
-```
-
-### 2️⃣ Navigate to project folder
-
-```bash
-cd job-openings-ui
-```
-
-### 3️⃣ Install dependencies
-
-```bash
-npm install
-```
-
-### 4️⃣ Run the project
-
-```bash
-npm start
-```
-
----
 
 ## 📦 Dependencies
 

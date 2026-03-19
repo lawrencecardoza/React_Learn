@@ -1,0 +1,11 @@
+.header{
+   background-color: blueviolet;
+  color: white;
+  width: 70px;
+  border-radius:10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px 40px ;
+  margin: 5px;
+}

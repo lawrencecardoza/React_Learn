@@ -1,1 +1,1 @@
-Just Practise Css in Reactgi
+Just Practise Css in React
